@@ -1,0 +1,13 @@
+h1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size: 4vw;
+color:white;
+font-weight: 100;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    border-width: 30px;
+   column-width: 20em;
+   width: 45em;
