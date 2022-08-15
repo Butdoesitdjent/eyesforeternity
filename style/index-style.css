@@ -1,0 +1,124 @@
+<style>
+   // Style for 0-499px viewports
+   @media (min-width: 500px) {
+      // Styles for 500px or wider viewports
+   }
+</style>
+
+a:link {
+	font-size : 12pt;
+	font-family : Georgia, 'Times New Roman', Times, serif;
+	text-decoration: none;
+}
+
+body {]
+	background-image: url("images/websitebg.jpg");
+          background-repeat: repeat;
+         background-size:cover; 
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 14pt;
+	margin-top: 0.1em;
+	margin-right: 0.1em;
+	margin-bottom: 0.1em;
+	margin-left: 0.1em;
+	font-style: normal;
+    
+  <body bgcolor="#4a615a">
+  }  
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 14pt;
+}
+
+h1{
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: 200;
+
+}
+
+table {
+	border: 0px solid;
+	padding: 3px;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 14pt;
+	font-style : normal;
+}
+	
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+}
+
+H1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size : 18pt;
+	font-weight : bold;
+}
+pre {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-style: normal;
+}
+
+H2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size : 15pt;
+	font-weight : bold;
+}
+
+H3{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size : 14pt;
+	font-weight : bold;
+}
+
+
+.small {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt
+}
+
+.medium {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13pt;
+}
+.blue_font {
+	color: #004080;
+}
+
+
+.big {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+}
+
+.xbig {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18pt;
+}
+
+.expanded {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	line-height: 24px;
+	letter-spacing: 2px;
+}
+
+.justified {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
+}
+
+.footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: Gray;
+}
