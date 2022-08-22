@@ -1,0 +1,11 @@
+h1, h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: left;
+} 
+
+body {
+    background-repeat: no-repeat;
+}
