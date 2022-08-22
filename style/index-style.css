@@ -13,8 +13,7 @@ a:link {
 
 body {]
 	background-image: url("images/websitebg.jpg");
-          background-repeat: no-repeat;
-         background-size:cover; 
+        background-size:cover; 
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	font-size: 14pt;
 	margin-top: 0.1em;
