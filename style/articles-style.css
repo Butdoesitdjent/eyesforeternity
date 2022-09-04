@@ -3,3 +3,7 @@ h1, h2 {
     font-size: .8em;
     font-weight: 400;
 }
+
+div {
+margin: 0px 70px 0px 70px;
+}
