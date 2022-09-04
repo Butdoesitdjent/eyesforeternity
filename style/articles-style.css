@@ -1,8 +1,15 @@
-h1, h2 {
+h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: .8em;
     font-weight: 300;
     margin: 0px 70px 0px 70px;
+}
+
+p {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 2em;
+   font-weight: 400
+   margin: 0px 70px 0px 70px;
 }
 
 div {
