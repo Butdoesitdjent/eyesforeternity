@@ -26,12 +26,12 @@ body {]
   }  
 
   button {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-	width: 15px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+	width: 12px;
 	height: 30px;
 	background-color:black;
 	color: white;
-	font-size: medium;
+	font-size: 2em;
 	border-radius: 1px;
 	line-break: auto;
 	transition: ease-out 0.3s;
