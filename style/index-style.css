@@ -27,11 +27,11 @@ body {]
 
   button {
         font-family: Georgia, 'Times New Roman', Times, serif;
-	width: 12px;
+	width: 10px;
 	height: 30px;
 	background-color:black;
 	color: white;
-	font-size: 0.5em;
+	font-size: 0.2em;
 	border-radius: 1px;
 	line-break: auto;
 	transition: ease-out 0.3s;
