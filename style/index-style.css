@@ -22,14 +22,13 @@ body {]
 	margin-left: 0.1em;
 	font-style: normal;
     
-  <body bgcolor="#4a615a">
   }  
 
   button {
         font-family: Georgia, 'Times New Roman', Times, serif;
 	background-color:black;
 	color: white;
-	font-size: 6px;
+	font-size: 1em;
 	border-radius: 1px;
 	line-break: auto;
 	transition: ease-out 0.3s;
