@@ -22,7 +22,7 @@ body {]
 	
   }
   .btn-1 {
-        width: 38px;
+        max-width: 58px;
         height: 30px;
   } 
   button:hover {
