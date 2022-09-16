@@ -5,7 +5,7 @@ body {
 
 .title {
 	font-family: "Cairo";
-	text-align: center;
+	text-align: left;
 	color: #FFF;
 	display: flex;
 	flex-direction: column;
@@ -23,7 +23,7 @@ h1 {
 	-moz-background-clip: text;
 	-webkit-background-clip: text;
 	text-transform: uppercase;
-    word-break: keep-all;
+        word-break: keep-all;
 	font-size: 90px;
 	margin: 10px 0;
 }
