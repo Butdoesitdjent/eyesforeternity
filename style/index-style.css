@@ -24,6 +24,12 @@ body {]
     
   }  
 
+.banner {
+	
+	background-image: url(https://media.tenor.com/images/475f04863199d9fafb1b982c62f00c23/tenor.gif);
+	
+}
+
   button {
         font-family: Georgia, 'Times New Roman', Times, serif;
 	background-color:black;
