@@ -92,6 +92,7 @@ h1 {
 	width: 70%;
 	height: fit-content;
 	background-color: black;
+	padding: 15px;
 	transition: ease-out 0.3s;
 }
 
