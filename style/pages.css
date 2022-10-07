@@ -36,17 +36,6 @@ body {
 	margin-top: 1.5%;
 }
 
-button {
-	position:static;
-	font-family: "Play";
-background-color:black;
-color: white;
-font-size: 10px;
-line-break: auto;
-transition: ease-out 0.3s;
-overflow: hidden;
-
-}
 .btn-1 {
 	font-family: "Play";
 	color: aliceblue;
