@@ -98,7 +98,7 @@ h1 {
 	font-size: 1em;
     border-radius: 4px;
 	width: 70%;
-	height: 1000px;
+	height: fit-content;
 	background-color: black;
 	transition: ease-out 0.3s;
 }
