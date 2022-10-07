@@ -48,6 +48,9 @@ overflow: hidden;
 
 }
 .btn-1 {
+	font-family: "Play";
+	color: aliceblue;
+	background-color: #000;
 	width: 38px;
 	height: 30px;
 } 
