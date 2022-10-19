@@ -50,7 +50,7 @@ body {
 .title {
 	font-family: "Cairo";
 	text-align: left;
-	color: #FFF;
+	color: black;
 	align-items: center;
 	vertical-align: middle;
 	justify-content: center;
@@ -72,7 +72,7 @@ body {
 
 .content:hover{
 	font-size: 1.1em;
-    color: black;
+        color: white;
 	background-color: aqua;
 }
 
