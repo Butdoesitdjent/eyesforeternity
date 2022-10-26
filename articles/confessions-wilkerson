@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="icon" href="../images/logofull.png">
+<link rel="stylesheet" href="../style/pages.css">
+<title>Confessions of a Rock Music Hater</title>
+<meta name="viewport" content="width=device-width, initial-scale=1 maximum-scale=1, user-scalable=1>
+<meta name="revisit-after" content="20 days" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="google-site-verification" content="nWJD9dC0VcrDO8Tv_MasNeC-QMeAVWQUpKbBQVF9NaI" />
+<meta name="msvalidate.01" content="A4127A5BB8601F44144B958282DFC845" />
+<div class="menu">
+    <center><img src="../images/banner.png"
+    width="350px" height="70px" align="center" style="margin-top:8px"></center>
+</div>
+<div class="text-content"><p style="color:aqua"><strong><i>"Confessions of a Rock Music Hater"</i><br>This article was originally released as a pamphlet from <a href="../resources" style="color:aqua">Last Days Ministries</a> titled "Confessions of a Rock N' Roll Hater", written by the late <a href="../whowesupport#wilkerson" style="color:aqua">David Wilkerson.</a></br></p></strong>
+<center><img src="https://www.gospeltruth.net/booth/whocaresphoto19smaller.JPG" width="50%" height="50%"></center>                                                                      
+<p>
+
+</div>
+<center><div class="bar"></div></center>
+        <p class="buttons" align="middle" margin-top="20px"><button class="btn btn-1"; onclick="window.location.href='../index.html';" style="width:10em">HOME</button>
+            <button class="btn btn-1"; onclick="window.location.href='../resources.html';" style="width:10em">RESOURCES</button>
+            <button class="btn btn-1"; onclick="window.location.href='../hangout.html';" style="width:10em">HANGOUT</button>
+            <button class="btn btn-1"; onclick="window.location.href='../sanctuary.html';" style="width:10em">SANCTUARY</button>
+            <button class="btn btn-1"; onclick="window.location.href='../about.html';" style="width:10em">ABOUT</button>
+            <button class="btn btn-1"; onclick="window.location.href='../more.html';" style="width:10em">MORE</button></p>
+    <p>ㅤ</p>
+</body>
+</html>
