@@ -2,7 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic+SC&family=Play:wght@700&display=swap');
 
 body {
-	background-color: black;
+	background-image: url("../images/background.png");
+	background-size: length:110%;
+	background-repeat: no-repeat;
+
 }
 
 * {
@@ -91,7 +94,7 @@ h1 {
     border-radius: 4px;
 	width: 70%;
 	height: fit-content;
-	background-color: black;
+	background-color: transparent;
 	padding: 15px;
 	transition: ease-out 0.3s;
 }
