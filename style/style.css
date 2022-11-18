@@ -71,8 +71,7 @@ body {
 	width: 70%;
 	height:fit-content;
 	padding: 15px;
-	background-color: black;
-        opacity: 10%;
+	background-color: black: opacity:10%;
 	transition: ease-out 0.3s;
 	
 }
