@@ -5,7 +5,7 @@ body {
 	background-image: url("../images/background.png");
 	background-size: length:100%;
 	background-repeat: repeat;
-        background-position: center center;
+        background-position: center center: fixed;
         background-color: black;
 
 }
