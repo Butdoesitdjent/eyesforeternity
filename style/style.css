@@ -1,6 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Cairo');
 @import url('https://fonts.googleapis.com/css2?family=Carrois+Gothic+SC&family=Play:wght@700&display=swap');
 
+* {
+
+	margin: 0px 0px 0px 0px;
+} 
+
 body {
 	background-image: url("../images/background.png");
 	background-size: length:100%;
@@ -8,11 +13,6 @@ body {
         background-position: center center;
         background-color: black;
 
-}
-
-* {
-
-	margin: 0px 0px 0px 0px;
 }
 
 .menu {
