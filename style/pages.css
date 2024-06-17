@@ -11,6 +11,7 @@ body {
 * {
 
 	margin: 0px 0px 0px 0px;
+	animation: transitionIn 0.75s;
 }
 
 .desc {
