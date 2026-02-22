@@ -8,10 +8,6 @@
 	box-sizing: border-box;
 } 
 
-head {
-	display: flex;
-}
-
 body {
 	background-image: url("../images/background.png");
 	background-size: length:100%;
