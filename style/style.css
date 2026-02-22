@@ -8,6 +8,11 @@
 	box-sizing: border-box;
 } 
 
+head {
+	display:inline;
+	align-content: center;
+}
+
 body {
 	background-image: url("../images/background.png");
 	background-size: length:100%;
@@ -150,6 +155,12 @@ gap: 60px;
 	-webkit-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
 	background-color: white;
+}
+
+.text-content {
+	color: aliceblue;
+	font-family: "Cairo";
+	margin: 40px 70px 0px 70px;
 }
 
 @media (max-width: 768px) {
